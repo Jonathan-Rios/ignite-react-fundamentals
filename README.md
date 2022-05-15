@@ -1,4 +1,4 @@
-<h1 align="center">Title - Subtitle</h1>
+<h1 align="center">Git explorer</h1>
 
 <p align="center">
   <img 
@@ -21,19 +21,14 @@
 
 <br>
 
-<h3 align="center">Subtitle or Resume</h3>
+<h3 align="center">Prévia do projeto</h3>
 
 ![cover](.github/project-preview.png?style=flat)
 
 <br>
 
 ## 💻 Projeto
-Descrição do projeto:
-- Intro da aplicação
-- Origem da aplicação?
-- Por que fez e sua utilidade?
 
-### Exemplo
 Essa aplicação foi desenvolvida para estudos seguindo os ensinamentos da **[Rocketseat](https://www.rocketseat.com.br/)** no curso Ignite **[Ignite](https://www.rocketseat.com.br/ignite)** .
 
 Nele aborda a criação de um projeto do zero em <strong>JavaScript</strong>  e depois refatorado para <strong>TypeScript</strong>, também contém a configuração <strong>Webpack</strong> e <strong>Babel</strong> do zero.
@@ -56,9 +51,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/Jonathan-Rios/nome-do-repo.git
 
-$ cd nome-do-repo
+$ git clone https://github.com/Jonathan-Rios/ignite-react-fundamentals.git
+
+$ cd ignite-react-fundamentals
 ```
 
 Para iniciá-lo, siga os passos abaixo:
@@ -70,18 +66,6 @@ $ npm install # ou yarn
 $ npm run dev  # ou yarn dev
 ```
 - O app estará disponível no seu browser pelo endereço http://localhost:8080.
-
-- Lembrando que será necessário configurar e rodar o [Servidor](https://github.com/Jonathan-Rios/repo-server.git) para ver o funcionamento completo.
-
-- Não necessário para rodar, mas caso queira ver o projeto [Mobile](https://github.com/Jonathan-Rios/repo-mobile.git)
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através do link abaixo:
-
- - [Layout Web](https://www.figma.com/community/file/1102912516166573468) 
-
-Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
 ## 📜 License
 
